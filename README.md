@@ -33,10 +33,14 @@ The Freelance Marketplace Job Portal is an Object-Oriented Analysis and Design (
 ### **UML Diagrams**
 1. **Use Case Diagram**:
    - Captures interactions between users (job providers and freelancers) and the system.
+     ![Use Case Diagram](./docs/UseCaseDiagram.jpg)
+
 2. **Class Diagram**:
    - Represents system structure, showing classes such as `User`, `Job`, `Application`, etc., and their relationships.
+    ![Class Diagram](./docs/classDiagram.jpg) 
 3. **Activity Diagram**:
    - Illustrates the flow of actions for job application and job completion.
+     ![Activity Diagram](./docs/ActivityDiagram.jpg)
 
 ### **Design Patterns**
 - **Singleton**: For managing system configurations and database connections.
