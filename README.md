@@ -51,13 +51,14 @@ The Freelance Marketplace Job Portal is an Object-Oriented Analysis and Design (
 ## **Project Structure**
 
 ### Directory Details:
-- **`src/main/`**: Contains the application's core code.
-  - **`models/`**: Data classes for entities like `User`, `Job`, and `Application`.
-  - **`controllers/`**: Manages routing and request handling.
-  - **`services/`**: Contains service classes for business logic.
-- **`src/test/`**: Includes unit tests for various components of the application.
-- **`docs/`**: Stores UML diagrams (e.g., use case, class, sequence diagrams) and any additional documentation.
-- **`config/`**: Configuration files for connecting to the database or other services.
+- **`META-INF/`**: Contains meta information about the project, often used for configurations and application settings.
+- **`bin/`**: Contains the compiled Java bytecode files (`.class` files).
+- **`docs/`**: Stores UML diagrams (e.g., use case, class, sequence, activity diagrams) and any additional project documentation.
+- **`lib/`**: External libraries required for the project.
+- **`src/`**: Source code for the application, including Java classes and logic (in the `com/jobportal/application/` directory).
+- **`Job-Portal.jar`**: The JAR file containing the packaged application for execution.
 - **`README.md`**: Provides an overview of the project, including setup and usage instructions.
+
+
 
 
