@@ -1,7 +1,7 @@
 # **Freelance Marketplace Job Portal**
 
 ### **Overview**
-The Freelance Marketplace Job Portal is an Object-Oriented Analysis and Design (**OOAD**) project that simulates an online platform connecting **job providers** with **freelancers**. It allows job providers to post projects and hire skilled freelancers, while freelancers can bid for jobs based on their expertise. The portal also features a rating system, payment management, and job status tracking.
+The Freelance Marketplace Job Portal is an Object-Oriented Analysis and Design (**OOAD**) project that simulates an online platform connecting **job providers** with **freelancers**. It allows job providers to post projects and hire skilled freelancers, while freelancers can bid for jobs based on their expertise. 
 
 ---
 
